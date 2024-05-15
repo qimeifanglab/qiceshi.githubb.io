@@ -1,1 +1,1 @@
-The website is avaible [**Qi Lab**](https://qimeifanglab.github.io/)
+The website is available [**Qi Lab**](https://qimeifanglab.github.io/)
